@@ -1,12 +1,12 @@
 # Hello 👋
 
-My name is Michael Leonffu. I'm currently studing Computer Engineering at University of California, Los Angles: UCLA. I enjoy deisngin, documenting, and writing software/programs spesfifically in backend.
+My name is Michael Leonffu. I'm currently studying Computer Engineering at University of California, Los Angeles: UCLA. I enjoy designing, documenting, and writing software/programs specifically in backend.
 
-- 🔭 I’m currently working on `Anna Li Bot` discord bot. Rewritting it in python, perviously js
+- 🔭 I’m currently working on `Anna Li Bot` discord bot. Rewriting it in python, previously js
 - 🌱 I’m currently learning using homebridge with python
 - 🤔 I’m looking for things to do with HDL
 
-### My favorite lanagues include:
+### My favorite languages include:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelleonffu&theme=default" />
 
