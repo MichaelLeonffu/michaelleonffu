@@ -8,6 +8,7 @@ DevOps, and writing software/programs specifically in backend.
   - 🏸 Badminton Buddy; a smart badminton birdie pitcher robot.
   - 🤖 `Anna Li Bot` discord bot. Rewriting it in python. Updating it
     consistantly.
+  - 📝 wordle, a wordle solver; it started as a small script and it got bloated.
   - 💻 `cookieandrock.dev` Learning Full Stack Development: Next.js,
     TailwindCSS, Strapi (CMS), Nginx (reverse proxy), MongoDB, and DevOps.
   - 📖 Class projects/labs, some of which I may have permission to post on
