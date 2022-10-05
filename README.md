@@ -1,33 +1,33 @@
 # Hello 👋
 
-My name is Michael Leonffu. I'm currently studying Computer Engineering at
+My name is Michael Leonffu. I'm Computer Engineering graduate from
 University of California, Los Angeles: UCLA. I enjoy designing, documenting,
 DevOps, and writing software/programs specifically in backend.
 
 - 🔭 I'm currently working on:
-  - 🏸 Badminton Buddy; a smart badminton birdie pitcher robot.
   - 🤖 `Anna Li Bot` discord bot. Rewriting it in python. Updating it
     consistantly.
-  - 📝 wordle, a wordle solver; it started as a small script and it got bloated.
   - 💻 `cookieandrock.dev` Learning Full Stack Development: Next.js,
     TailwindCSS, Strapi (CMS), Nginx (reverse proxy), MongoDB, and DevOps.
-  - 📖 Class projects/labs, some of which I may have permission to post on
-    github!
-  - 🎁 `ghost-upload`, VSCode extension to upload blog posts onto a ghost
-    instance.
-- 🌱 I'm currently learning to make and test security of systems and software.
 - 👯 I'm looking to collaborate on anything with DevOps and webdev or backend
   systems!
 
 
 <!--
+🏸 Badminton Buddy; a smart badminton birdie pitcher robot.
+  - 📝 wordle, a wordle solver; it started as a small script and it got bloated.
+  - 🎁 `ghost-upload`, VSCode extension to upload blog posts onto a ghost
+- 🌱 I'm currently learning to make and test security of systems and software.
+    instance.
+  - 📖 Class projects/labs, some of which I may have permission to post on
+    github!
 - 🔭 I'm also ~~currently~~ working on `Charjabug` a reverse remote ssh tunnel,
   webserver, and gpio led on rpi zero w.
 - 🌱 I'm learning reverse ssh tunnel, gpio on rpi, and makefiles
 - 🤔 I'm looking for things to do with HDL and Machine Learning.
 -->
 
-As you can see I'm all over the place!
+<!-- As you can see I'm all over the place! -->
 
 ### Developer Philosophy
 
