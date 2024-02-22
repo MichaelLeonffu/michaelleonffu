@@ -3,11 +3,11 @@
 My name is Michael Leonffu. I'm Computer Engineering graduate from
 University of California, Los Angeles: UCLA. I enjoy designing, documenting,
 DevOps, and writing software/programs in the backend. I currently work at
-TimelyCare but I still enjoy tinkering and learning on new software in my free time.
+TimelyCare and I still enjoy tinkering and learning on new software in my free time.
 
 - 🔭 I'm currently working on:
   - 🌱 I'm currently learning GoLang!
-  - 🤖 `Anna Li Bot` discord bot. Rewriting it in GO.
+  - 🤖 `Anna Li Bot` discord bot.
   - 💻 `cookieandrock.dev` Learning Full Stack Development: Next.js,
     TailwindCSS, Strapi (CMS), Nginx (reverse proxy), MongoDB, and DevOps.
 
@@ -58,6 +58,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelleonf
 ### My favorite languages:
 - Python
 - Javascript
+- GO
 - Java
 - C++
 - Bash
