@@ -1,17 +1,19 @@
-# Hello 👋
+# Hiya!
 
-My name is Michael Leonffu. I'm Computer Engineering graduate from
-University of California, Los Angeles: UCLA. I enjoy designing, documenting,
-DevOps, and writing software/programs in the backend. I currently work at
-TimelyCare and I still enjoy tinkering and learning on new software in my free time.
+I'm Computer Engineering graduate University of California, Los Angeles UCLA.
+I enjoy designing, documenting, DevOps, and writing software in the backend.
 
-- 🔭 I'm currently working on:
-  - 🌱 I'm currently learning GoLang!
-  - 🤖 `Anna Li Bot` discord bot.
-  - 💻 `cookieandrock.dev` Learning Full Stack Development: Next.js,
-    TailwindCSS, Strapi (CMS), Nginx (reverse proxy), MongoDB, and DevOps.
+I currently work at [TimelyCare](https://timelycare.com) as a backend engineer
+and I enjoy tinkering with software during my free time.
+
+🔭 I'm currently working on:
+- 🌱 I'm currently learning Go by making a pet project TBD!
+- 🤖 `Anna Li Bot` discord bot
+- 🌱 Code cleanliness, scalability, and MVPs
 
 <!--
+  - 💻 `cookieandrock.dev` Learning Full Stack Development: Next.js,
+    TailwindCSS, Strapi (CMS), Nginx (reverse proxy), MongoDB, and DevOps.
 🏸 Badminton Buddy; a smart badminton birdie pitcher robot.
   - 📝 wordle, a wordle solver; it started as a small script and it got bloated.
   - 🎁 `ghost-upload`, VSCode extension to upload blog posts onto a ghost
@@ -29,18 +31,37 @@ TimelyCare and I still enjoy tinkering and learning on new software in my free t
 
 ### Developer Philosophy
 
-Build software slowly and systematically. I've felt the pain of forgetting old
-scripts and code I used to know. Every year I'd set up a raspberry pi
-headlessly, and every year I'd need to look up the commands to do it. That's
-when I decided to write scripts to automate the process, and take notes so I
-don't forget the steps in the future.
+- Build software systematically.
+- Build fast with MVPs.
+- Don't hack, instead use maintainable and good patterns.
+- Refactor as needed.
 
-Now I can easily open an old project and implement and new feature to it.
-My next steps are to build a platform where I can host and interact with
-scripts and programs I've created and used. Often times the things I write
-aren't used frequently enough and become obsolete. This is my next goal.
+**Why?**
+
+It's painful. Forgetting scripts and code I used to know.
+Each year I'd set up a raspberry pi headlessly, and each year I'd
+look up the commands to do it.
+
+I dislike inefficiency and detest repeating mistakes.
+
+That is when I decided to write scripts to automate the process, and
+take notes so I don't forget the steps in the future.
+
+The dividends paied off quickly. Setting up a new headless RPI is
+done in a matter of minutes! I can open an old project, implement a
+new feature, and deploy immediately.
+
+Now I'm building a platform where I can host and interact with all my
+scripts and programs I've created. I think my journey is beneficial
+to document. For others as well as for myself.
+
+Keep up with the next exciting thing I'm doing on:
+BLOG PAGE IS TEMPORALITY UNDER MAINTENANCE.
 
 <!--
+Often times the things I write
+aren't used frequently enough and become obsolete. This is my next goal.
+
 I also use [blog.cookieandrock.dev](blog.cookieandrock.dev) as a platform for
 writing certain lessons I've learned in software and tools. One day I
 realized that I was relearning old material I had learned before. I didn't
@@ -56,8 +77,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelleonf
 />
 
 ### My favorite languages:
-- Python
 - Javascript
+- Python
 - GO
 - Java
 - C++
