@@ -1,17 +1,25 @@
-# Hiya!
+## Hi!
 
-I'm Computer Engineering graduate University of California, Los Angeles UCLA.
-I enjoy designing, documenting, DevOps, and writing software in the backend.
+I am an enthusiastic **Software Engineer specializing in Backend Systems**.
 
-I currently work at [TimelyCare](https://timelycare.com) as a backend engineer
-and I enjoy tinkering with software during my free time.
+I have a BS in Computer Engineering from University of California, Los Angeles UCLA.  
+I currently work at [TimelyCare](https://timelycare.com) as a node.js backend engineer.
 
-🔭 I'm currently working on:
-- 🌱 I'm currently learning Go by making a pet project TBD!
-- 🤖 `Anna Li Bot` discord bot
-- 🌱 Code cleanliness, scalability, and MVPs
+Outside of work I like to:
+- Design and architect.
+- Learn new technologies and algorithms.
+- Administrate and DevOps.
+- Document.
+
+Most of all, I enjoy Applying what I learn to projects.
+
+🔭 I'm currently:
+- 🌱 Learning Go!
+- 🌱 Practicing clear and scalabe/maintainable code.
+- 🌱 Learning how to orient solutions to increase generate business value.
 
 <!--
+- 🤖 `Anna Li Bot` discord bot
   - 💻 `cookieandrock.dev` Learning Full Stack Development: Next.js,
     TailwindCSS, Strapi (CMS), Nginx (reverse proxy), MongoDB, and DevOps.
 🏸 Badminton Buddy; a smart badminton birdie pitcher robot.
@@ -31,34 +39,33 @@ and I enjoy tinkering with software during my free time.
 
 ### Developer Philosophy
 
-- Build software systematically.
-- Build fast with MVPs.
-- Don't hack, instead use maintainable and good patterns.
-- Refactor as needed.
+- Hack myself, be consistent: build software systematically. Learning is not a sprint, it's a marathon.
+- MVPs: build and itterate fast, keeping in mind the big picture.
+- Know when to hack and when to use maintainable/scalable patterns.
 
 **Why?**
 
-It's painful. Forgetting scripts and code I used to know.
-Each year I'd set up a raspberry pi headlessly, and each year I'd
-look up the commands to do it.
+It is painful. Forgetting about programs I made.
+Not knowing if code I wrote works. Where I left off. etc.
+For example, every year I set up a raspberry pi headlessly,
+and every year I have to look up the commands to do it.
 
-I dislike inefficiency and detest repeating mistakes.
+It is inefficient and I dislike repeating it.
 
-That is when I decided to write scripts to automate the process, and
-take notes so I don't forget the steps in the future.
+So I decided to write scripts to automate the process,
+and take notes so I understand the steps in the future.
 
-The dividends paied off quickly. Setting up a new headless RPI is
-done in a matter of minutes! I can open an old project, implement a
-new feature, and deploy immediately.
+It off quickly. In a matter of minutes, I can set up a new headless RPI!
+I can open up old projects to implement a new feature and deploy immediately.
 
-Now I'm building a platform where I can host and interact with all my
-scripts and programs I've created. I think my journey is beneficial
-to document. For others as well as for myself.
+I am a backend engineer; so the next step is intuitive...
+build a platform so I can host and interact with all the programs I have ever created.
 
+<!--
+I think my journey is beneficial to document. For others as well as for myself.
 Keep up with the next exciting thing I'm doing on:
 BLOG PAGE IS TEMPORALITY UNDER MAINTENANCE.
 
-<!--
 Often times the things I write
 aren't used frequently enough and become obsolete. This is my next goal.
 
