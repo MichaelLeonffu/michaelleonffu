@@ -1,22 +1,21 @@
-## Hi!
+# Hi there! 👋
 
-I am an enthusiastic **Software Engineer specializing in Backend Systems**.
+I am a **Backend Software Engineer** passionate about building scalable systems and automation.
 
-I have a BS in Computer Engineering from University of California, Los Angeles UCLA.  
-I currently work at [TimelyCare](https://timelycare.com) as a node.js backend engineer.
+## About Me
 
-Outside of work I like to:
-- Design and architect.
-- Learn new technologies and algorithms.
-- Administrate and DevOps.
-- Document.
+- 🎓 BS in Computer Engineering from UCLA
+- 💼 Backend Engineer at [TimelyCare](https://timelycare.com)
+- 🌱 Currently learning Go and exploring system design patterns
+- 🚀 Focused on writing maintainable, scalable code that delivers business value
 
-Most of all, I enjoy Applying what I learn to projects.
 
-🔭 I'm currently:
-- 🌱 Learning Go!
-- 🌱 Practicing clear and scalabe/maintainable code.
-- 🌱 Learning how to orient solutions to increase generate business value.
+## Professional Interests
+
+- 🏗️ System Design & Architecture
+- 🔧 DevOps & Infrastructure
+- 📚 Technical Documentation
+- 🧪 Exploring New Technologies
 
 <!--
 - 🤖 `Anna Li Bot` discord bot
@@ -30,73 +29,23 @@ Most of all, I enjoy Applying what I learn to projects.
 - 🔭 I'm also ~~currently~~ working on `Charjabug` a reverse remote ssh tunnel,
   webserver, and gpio led on rpi zero w.
 - 🌱 I'm learning reverse ssh tunnel, gpio on rpi, and makefiles
-- 🤔 I'm looking for things to do with HDL and Machine Learning.
-- 👯 I'm looking to collaborate on anything with DevOps and webdev or backend
-  systems!
 -->
 
-<!-- As you can see I'm all over the place! -->
+## Engineering Philosophy
 
-### Developer Philosophy
+I believe in:
 
-- Hack myself, be consistent: build software systematically. Learning is not a sprint, it's a marathon.
-- MVPs: build and itterate fast, keeping in mind the big picture.
-- Know when to hack and when to use maintainable/scalable patterns.
+- **Systematic Development**: Building software methodically with a focus on long-term maintainability
+- **Fast and Iterative Progress**: Starting with MVPs and evolving based on real-world feedback
+- **Driving Business Value**: Knowing when to prioritize for speed or maintainability
+- **Automation First**: Automating repetitive tasks
 
-**Why?**
+### Why This Matters
 
-It is painful. Forgetting about programs I made.
-Not knowing if code I wrote works. Where I left off. etc.
-For example, every year I set up a raspberry pi headlessly,
-and every year I have to look up the commands to do it.
+My journey in software engineering has taught me the importance of sustainable development practices. For example, I used to spend hours manually setting up Raspberry Pi devices each year. So I wrote automation scripts, now I can set up a new headless Raspberry Pi in a few commands.
 
-It is inefficient and I dislike repeating it.
+This experience shaped my view on software development. It keeps me grounded in what actually matters. It's all about solving problems with software. Too often I find myself getting stuck in optimizing for long-term maintainability, or code cleanliness. I lose sight of the actual problem I'm trying to solve. Hahaha, things were much simpler when I didn't know how to code.
 
-So I decided to write scripts to automate the process,
-and take notes so I understand the steps in the future.
+## Let's Connect!
 
-It off quickly. In a matter of minutes, I can set up a new headless RPI!
-I can open up old projects to implement a new feature and deploy immediately.
-
-I am a backend engineer; so the next step is intuitive...
-build a platform so I can host and interact with all the programs I have ever created.
-
-<!--
-I think my journey is beneficial to document. For others as well as for myself.
-Keep up with the next exciting thing I'm doing on:
-BLOG PAGE IS TEMPORALITY UNDER MAINTENANCE.
-
-Often times the things I write
-aren't used frequently enough and become obsolete. This is my next goal.
-
-I also use [blog.cookieandrock.dev](blog.cookieandrock.dev) as a platform for
-writing certain lessons I've learned in software and tools. One day I
-realized that I was relearning old material I had learned before. I didn't
-like that. So I started documenting lessons learned and making some automated
-tools like headless-rpi installers. I hope that with all these new ideas I can
-keep working on increasing my knowledge base systematically and consistently.
--->
-
-### My most used languages include:
-
-<img align="center"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelleonffu&theme=default"
-/>
-
-### My favorite languages:
-- Javascript
-- Python
-- GO
-- Java
-- C++
-- Bash
-
-<!--
-- 📫 How to reach me: ...
-- 💬 Ask me about 
-- 🌱 I'm currently learning 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
--->
+I'm always looking to collaborate on interesting projects. Let's connect!
